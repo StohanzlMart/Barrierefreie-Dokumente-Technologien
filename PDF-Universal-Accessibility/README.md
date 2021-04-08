@@ -1,4 +1,4 @@
-# 0 PDF/UA for accessible documents
+# PDF/UA for accessible documents
 
 Disclaimer: Ich habe nix mit PDF oder PDF-Assoc. zu tun!
 
@@ -8,7 +8,7 @@ Disclaimer: Ich habe nix mit PDF oder PDF-Assoc. zu tun!
 
 > PDF/UA can also be seen as the successor to the conformance level "A" from PDF/A. Of all the PDF standards discussed in this article, PDF/UA places the highest demands on generation and always requires human interaction.
 
-# 1 Um sicherzustellen, dass ein Dokument auch PDF/UA konform werden kann, sind folgende Schritte notwendig
+# Um sicherzustellen, dass ein Dokument auch PDF/UA konform werden kann, sind folgende Schritte notwendig
 
 1) Information mit \*Dekoratoren\*
   a) auf der Tastatur geschrieben
@@ -38,9 +38,9 @@ Im Folgenden sind möglichst ALLE Routen ALLER Dokumentformate aufgezählt.
 
 todo you?
 
+## LaTeX
 
-
-#todo mehrere pull requests von euch annehmen um Texterstellungstools Links und Text hier einzufügen! —> ᕦ(ò_óˇ)ᕤ
+## todo mehrere pull requests von euch annehmen um Texterstellungstools Links und Text hier einzufügen! —> ᕦ(ò_óˇ)ᕤ
 
 # Quellen
 
