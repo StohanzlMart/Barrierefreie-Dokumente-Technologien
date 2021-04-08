@@ -26,15 +26,15 @@ Disclaimer: Ich habe nix mit PDF oder PDF-Assoc. zu tun!
 
 Im Folgenden sind möglichst ALLE Routen ALLER Dokumentformate aufgezählt. 
 
-## MircoSoft Powerpoint
+## MircoSαft Powerpoint
 
 [Acht Schritte Anleitung](https://github.com/StohanzlMart/Barrierefreie-Dokumente-Technologien/tree/main/MS-PPT) basiert auf https://webaim.org/techniques/powerpoint/
 
-## MircoSoft Word
+## MircoSαft Word
 
 [todo me!](https://github.com/StohanzlMart/Barrierefreie-Dokumente-Technologien/tree/main/MS-Word)
 
-## MicroHard Exce~
+## MicroHαrd Exce~
 
 todo you?
 
