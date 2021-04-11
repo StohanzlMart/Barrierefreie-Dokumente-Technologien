@@ -10,17 +10,17 @@ Disclaimer: Ich habe nix mit PDF oder PDF-Assoc. zu tun!
 
 # Um sicherzustellen, dass ein Dokument auch PDF/UA konform werden kann, sind folgende Schritte notwendig
 
-1) Information mit \*Dekoratoren\*
-  a) auf der Tastatur geschrieben
-    I) mit LaTeX 
-    II) MS Office
-    III) Open Office
-    IV) Markdown
-    V) XML
-  g) Gesprochen
-  h) Gestikuliert
-  i) Myokuliert (Kommuniziert durch sonstige Muskelbewegungen) #todo besseres Wort finden
-2) Bits konvertiert (hoffentlich zu PDF/UA unter anderem...)
+* Information mit \*Dekoratoren\*
+  * auf der Tastatur geschrieben
+    * mit LaTeX 
+    * MS Office
+    * Open Office
+    * Markdown
+    * XML
+  * Gesprochen
+  * Gestikuliert
+  * Myokuliert (Kommuniziert durch sonstige Muskelbewegungen) #todo besseres Wort finden
+* Bits konvertiert (hoffentlich zu PDF/UA unter anderem...)
 
 # Um bei der Konvertierung gute PDF/UA Konformität zu erzielen, bieten die Werkzeuge verschiedenste Routen.
 
