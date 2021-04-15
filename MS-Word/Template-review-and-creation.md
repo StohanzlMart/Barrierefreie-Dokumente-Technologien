@@ -31,3 +31,4 @@ Create blank dotx and create desired styles with same names as in target docx.
 ### known bugs
 
 * Text Colours do weird stuff.
+* once Word found a language, every style has a language to it. Only fix so far is to copy in styles from blank document
