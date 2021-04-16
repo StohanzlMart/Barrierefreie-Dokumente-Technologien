@@ -30,5 +30,9 @@ Create blank dotx and create desired styles with same names as in target docx.
 
 ### known bugs
 
-* Text Colours do weird stuff.
+This Template-attaching only works for Styles (Updates), not for Colour Accents, Page Margins or Alt-Text
+
+* Text Colours do weird stuff. (If Style uses Accent colour instead of real colour)
 * once Word found a language, every style has a language to it. Only fix so far is to copy in styles from blank document
+* Page Margins are not updated
+* Image Alt-Text is also not updated
